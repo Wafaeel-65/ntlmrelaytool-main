@@ -41,7 +41,7 @@ A comprehensive framework for capturing, analyzing, and relaying NTLM authentica
 
 ### Quick Setup
 ```bash
-git clone https://github.com/Wafaeel-65/ntlmrelaytool.git
+git clone https://github.com/Wafaeel-65/ntlmrelaytool-main.git
 cd ntlmrelaytool
 python -m venv venv
 
